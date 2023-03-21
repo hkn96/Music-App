@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Song = () => {
-  return <div>Song</div>;
+  return <div className='song-container'>Song</div>;
 };
 
 export default Song;
